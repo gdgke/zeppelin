@@ -23,19 +23,6 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/100703501907175330111"}
 - 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
   id: 4
   name: "David"
   surname: "Kovac"
@@ -53,3 +40,12 @@
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+OndrejIvan/"}
+    - 
+  id: 8
+  name: "Edmund"
+  surname: "Dakos"
+  title: "Web and Cloud Program Committee"
+  thumbnailUrl: EdmundDakos.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+EdmundDakoš/"}
