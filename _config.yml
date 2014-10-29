@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Košice 2014"
-email: "devfest@gdg.org.ua"
+email: "flori@gdg.sk"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "http://fofinca.github.io"
@@ -18,7 +18,7 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 organizerName: "GDG Košice"
 organizerAlternateName: "Google Developer Group Košice"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "flori@gdg.sk"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://kosice.gdg.sk/"
 
