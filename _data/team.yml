@@ -26,16 +26,16 @@
   id: 4
   name: "David"
   surname: "Kovac"
-  title: "Android Program Committee"
+  title: "GDG Kosice"
   thumbnailUrl: DavidKovac.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DávidKováč/"}
 - 
-  id: 7
+  id: 6
   name: "Ivan"
   surname: "Ondrej"
-  title: "Web and Cloud Program Committee"
+  title: "GDG Kosice"
   thumbnailUrl: OndrejIvan.jpg
   subTeam: true
   social: 
@@ -44,8 +44,17 @@
   id: 8
   name: "Edmund"
   surname: "Dakos"
-  title: "Web and Cloud Program Committee"
+  title: "GDG Kosice"
   thumbnailUrl: EdmundDakos.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+EdmundDakoš/"}
+- 
+  id: 10
+  name: "Martina"
+  surname: "Semesiova"
+  title: "GDG Kosice"
+  thumbnailUrl: MataSemesi.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/114996106696349930969/"}
