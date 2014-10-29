@@ -3,7 +3,7 @@
   name: "Florian"
   surname: "Nagy"
   title: "Event organiser & Speakers Manager"
-  thumbnailUrl: FloriaNagy.jpg
+  thumbnailUrl: FlorianNagy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -37,22 +37,19 @@
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
+  name: "David"
+  surname: "Kovac"
   title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: DavidKovac.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+DávidKováč/"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
+  name: "Ivan"
+  surname: "Ondrej"
   title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: OndrejIvan.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+OndrejIvan/"}
