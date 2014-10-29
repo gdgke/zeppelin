@@ -51,7 +51,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
 eventDate: "November 29, 2014"
-typeoutTextValues: '"", " Season", " Slovakia", " Košice", ""'
+typeoutTextValues: '"", " Season", " Slovakia", " Kosice", ""'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
