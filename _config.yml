@@ -40,7 +40,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
 
 bottomNavigationLinks:
  - {link: "https://gdgke.ticketleap.com/devfest/dates/Nov-29-2014_at_0900AM", text: "Register here"}
