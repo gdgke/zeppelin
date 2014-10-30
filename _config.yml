@@ -55,7 +55,7 @@ typeoutTextValues: '"", " Season", " Slovakia", " Kosice", ""'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register"}
+ - {permalink: "https://gdgke.ticketleap.com/devfest/dates/Nov-29-2014_at_0900AM", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
