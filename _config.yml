@@ -66,10 +66,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "11", specialCharacter: "+", info: "hours", detail: "of pure Google and IT technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "10", specialCharacter: "+", info: "hours", detail: "of pure Google and IT technologies"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -164,20 +164,19 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/108346197166929309455", icon: "google-plus"}
+ - {link: "https://facebook.com/GDGKe", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://kosice.gdg.sk", text: "GDG Kosice"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:flori@gdg.sk", text: "flori@gdg.sk"}
  -
   title: "FAQ"
   links:
@@ -266,10 +265,10 @@ hackathonLocationBlockTitle: "Location"
 hackathonLocationName: "Communa"
 hackathonLocationLink: "http://communa.net.ua/"
 hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
+hackathonAddressLocality: "Košice"
 hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
+hackathonPostalCode: "04001"
+hackathonAddressCountry: "Slovakia"
 hackathonTimeTitle: "Hack through"
 hackathonStartTime: "2014-10-24T10:00"
 hackathonDoorTime: "09:00"
