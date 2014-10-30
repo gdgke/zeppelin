@@ -67,3 +67,12 @@
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/111067331011845464133/"}
+- 
+  id: 13
+  name: "Jana"
+  surname: "Kunova"
+  title: "GDG Kosice"
+  thumbnailUrl: JankaKunova.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JanaKunová2211/"}
