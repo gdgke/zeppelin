@@ -2,8 +2,8 @@
   date: "2014-10-24"
   dateReadable: "November 29"
   tracks: 
-    - {title: "Room AURA", color: "#90be4e"}
-    - {title: "Room VENUS", color: "#03a9f4"}
+    - {title: "Room Aura", color: "#90be4e"}
+    - {title: "Room Venus", color: "#03a9f4"}
 
   timeslots:
     - {
