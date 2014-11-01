@@ -6,9 +6,9 @@
     - {title: "Room Venus", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "09:30",
-    	endTime: "10:30",
-    	sessionIds: [307]
+    	 startTime: "09:30",
+    	 endTime: "10:30",
+    	 sessionIds: [307, 307]
     }
     - {
         startTime: "10:40",
@@ -16,39 +16,39 @@
         sessionIds: [003, 004]
     }
     - {
-    	startTime: "11:10",
-    	endTime: "12:00",
-    	sessionIds: [307]
+    	 startTime: "11:10",
+    	 endTime: "12:00",
+    	 sessionIds: [307]
     }
     - {
         startTime: "12:10",
         endTime: "13:00",
         sessionIds: [003]
     }
-        - {
-        startTime: "13:10",
-        endTime: "14:00",
-        sessionIds: [003]
+    - {
+      startTime: "13:10",
+      endTime: "14:00",
+      sessionIds: [003]
     }
-        - {
+    - {
         startTime: "14:10",
         endTime: "15:00",
         sessionIds: [003]
     }
-        - {
-        startTime: "15:10",
-        endTime: "16:00",
-        sessionIds: [003]
+    - {
+      startTime: "15:10",
+      endTime: "16:00",
+      sessionIds: [003]
     }
-        - {
+    - {
         startTime: "16:10",
         endTime: "17:00",
         sessionIds: [003]
     }
-        - {
-        startTime: "17:10",
-        endTime: "18:00",
-        sessionIds: [003]
+    - {
+      startTime: "17:10",
+      endTime: "18:00",
+      sessionIds: [003]
     }
     - {
         startTime: "18:10",
@@ -57,6 +57,6 @@
     }
     - {
     	startTime: "19:10",
-    	endTime: "19:30",
+    	endTime: "19:20",
     	sessionIds: [503]
     }
