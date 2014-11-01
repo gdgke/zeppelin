@@ -90,9 +90,9 @@ eventAddressCountry: "Slovakia"
 eventStartTime: "2014-11-29T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-11-29T20:00"
-eventPlaceCoordinates: "48.729884, 21.256786"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "48.729675, 21.256764"
+mapCenterCoordinates: "48.729675, 21.256764"
+mapMobileCenterCoordinates: "48.729675, 21.256764"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -198,8 +198,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "48.729675, 21.256764"
+logisticsMapMobileCenterCoordinates: "48.729675, 21.256764"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
