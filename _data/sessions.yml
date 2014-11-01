@@ -16,7 +16,7 @@
   language: sk
 -
   id: 002
-  title: "Nazov Prednasky"
+  title: "undefined"
   subtype: presentation
   speakers: [6]
   language: cz
@@ -30,7 +30,7 @@
   complexity: "Expert"
 -
   id: 004
-  title: "Nazov prednasky"                                                            
+  title: "undefined"                                                            
   subtype: keynote
   speakers: [7]
   language: cz
@@ -65,7 +65,7 @@
   complexity: "Expert"
 -
   id: 009
-  title: "Mateusz?"                           
+  title: "undefined"                           
   subtype: keynote
   speakers: [5]
   language: eng
