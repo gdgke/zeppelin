@@ -72,7 +72,7 @@
   complexity: "Expert"
 -
   id: 010
-  title: "USB security"
+  title: "Two-step Verification"
   subtype: keynote
   speakers: [11]
   language: sk
