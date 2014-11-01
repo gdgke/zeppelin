@@ -73,7 +73,7 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 - 
-  id: 8
+  id: 9
   name: "Peter"
   surname: "Soltes"
   company: "Promiseo"
@@ -83,7 +83,7 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 - 
-  id: 8
+  id: 10
   name: "Florian"
   surname: "Nagy"
   company: "GDG Kosice"
