@@ -10,14 +10,15 @@
   service: true
 -
   id: 999
-  title: "End Keynote"
-  place: "Hotel Yasmin"
-  service: true
+  title: "GDG Kosice: End Keynote"
+  subtype: presentation
+  speakers: [10]
+  language: sk
 -
   id: 001
   title: "GDG Kosice: Keynote"
   subtype: presentation
-  speakers: [8]
+  speakers: [10]
   language: sk
 -
   id: 002
@@ -63,38 +64,38 @@
   complexity: "Expert"
 -
   id: 008
-  title: "Ako vie ušetriť škola tisícky ročne"
+  title: "Cisty Kod"
   subtype: keynote
-  speakers: [10]
+  speakers: [8]
   language: sk
   complexity: "Expert"
 -
   id: 009
-  title: "Ako vie ušetriť škola tisícky ročne"
+  title: "Mateusz?"                           
   subtype: keynote
-  speakers: [10]
+  speakers: [5]
   language: sk
   complexity: "Expert"
 -
   id: 010
-  title: "Ako vie ušetriť škola tisícky ročne"
+  title: "USB security"
   subtype: keynote
-  speakers: [10]
+  speakers: [11]
   language: sk
   complexity: "Expert"
 -
   id: 011
-  title: "Ako vie ušetriť škola tisícky ročne"
+  title: "Android wear Development"
   subtype: keynote
-  speakers: [10]
+  speakers: [12]
   language: sk
   complexity: "Expert"
 -
   id: 012
-  title: "Ako vie ušetriť škola tisícky ročne"
+  title: "The Star Trek computer doesn't seem that interesting"
   subtype: keynote
-  speakers: [10]
-  language: sk
+  speakers: [3]
+  language: en
   complexity: "Expert"
 -
   id: 013

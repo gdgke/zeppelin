@@ -96,3 +96,27 @@
     - {name: "google-plus", link: "https://plus.google.com/+FlorianNagy"}
     - {name: "twitter", link: "https://twitter.com/florinagy"}
     - {name: "site", link: "http://floriannagy.eu/"}
+- 
+  id: 11
+  name: "Tomas"
+  surname: "Lorinc"
+  company: "GDG Kosice"
+  title: "GDG Kosice Partnerships"
+  thumbnailUrl: TomasLorinc.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+FlorianNagy"}
+- 
+  id: 12
+  name: "Miroslav"
+  surname: "Kosik"
+  company: "GDG Kosice"
+  title: "Android Developer"
+  thumbnailUrl: MiroslavKosik.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+FlorianNagy"}
