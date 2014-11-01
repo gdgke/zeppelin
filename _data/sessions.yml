@@ -9,12 +9,6 @@
   place: "Dining room"
   service: true
 -
-  id: 999
-  title: "GDG Kosice: End Keynote"
-  subtype: presentation
-  speakers: [10]
-  language: sk
--
   id: 001
   title: "GDG Kosice: Keynote"
   subtype: presentation
@@ -99,22 +93,8 @@
   complexity: "Expert"
 -
   id: 013
-  title: "Ako vie ušetriť škola tisícky ročne"
-  subtype: keynote
-  speakers: [10]
-  language: sk
-  complexity: "Expert"
--
-  id: 014
-  title: "Ako vie ušetriť škola tisícky ročne"
-  subtype: keynote
-  speakers: [10]
-  language: sk
-  complexity: "Expert"
--
-  id: 015
-  title: "Ako vie ušetriť škola tisícky ročne"
-  subtype: keynote
+  title: "GDG Kosice: End Keynote"
+  subtype: presentation
   speakers: [10]
   language: sk
   complexity: "Expert"
