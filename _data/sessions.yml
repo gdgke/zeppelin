@@ -23,7 +23,7 @@
   complexity: "Expert"
 -
   id: 003
-  title: "Nazov Prednasky"
+  title: "Personal productivity throughout the day"
   subtype: presentation
   speakers: [8]
   language: cz
@@ -37,7 +37,7 @@
   complexity: "Expert"
 -
   id: 005
-  title: "Ako vie ušetriť škola tisícky ročne"
+  title: "School knows save thousands €/year (Gapps)"
   subtype: keynote
   speakers: [10]
   language: sk
@@ -51,7 +51,7 @@
   complexity: "Expert"
 -
   id: 007
-  title: "Promiseo"
+  title: "Why is Google Analytics interesting for developers"
   subtype: keynote
   speakers: [9]
   language: sk
@@ -68,7 +68,7 @@
   title: "Mateusz?"                           
   subtype: keynote
   speakers: [5]
-  language: sk
+  language: eng
   complexity: "Expert"
 -
   id: 010

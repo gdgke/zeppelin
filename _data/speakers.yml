@@ -74,14 +74,14 @@
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 - 
   id: 9
-  name: "Peter"
-  surname: "Soltes"
+  name: "Andrian"
+  surname: "Lancos"
   company: "Promiseo"
-  title: "Software engineer/country manager"
-  thumbnailUrl: PeterSoltes.jpg
+  title: "Developer"
+  thumbnailUrl: AdrianLancos.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/118285118623881706184"}
 - 
   id: 10
   name: "Florian"
