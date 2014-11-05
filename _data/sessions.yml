@@ -16,7 +16,7 @@
   language: sk
 -
   id: 002
-  title: "undefined"
+  title: "Dart"
   subtype: presentation
   speakers: [6]
   language: cz
@@ -30,7 +30,7 @@
   complexity: "Expert"
 -
   id: 004
-  title: "undefined"                                                            
+  title: "Multi-Agent Systems - Build your population on the table or in your pocket!"                                                            
   subtype: keynote
   speakers: [7]
   language: cz

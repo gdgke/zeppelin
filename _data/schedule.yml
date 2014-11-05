@@ -2,8 +2,8 @@
   date: "2014-11-29"
   dateReadable: "November 29"
   tracks: 
-    - {title: "Room Aura", color: "#90be4e"}
-    - {title: "Room Venus", color: "#03a9f4"}
+    - {title: "Room Yasmin I", color: "#90be4e"}
+    - {title: "Room Yasmin III", color: "#03a9f4"}
   timeslots:
     - {
     	 startTime: "09:30",
