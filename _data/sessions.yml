@@ -58,7 +58,7 @@
   complexity: "Expert"
 -
   id: 008
-  title: "Good code"
+  title: "Clean code"
   subtype: keynote
   speakers: [8]
   language: cz

@@ -63,7 +63,7 @@
   id: 8
   name: "Jirka"
   surname: "Penzes"
-  company: "GDG Prague"
+  company: "GDG Pardubice"
   title: "Software engineer/country manager"
   thumbnailUrl: JirkaPenzes.jpg
   rockstar: true
@@ -73,7 +73,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+JirkaPénzeš/"}
 - 
   id: 9
-  name: "Andrian"
+  name: "Adrian"
   surname: "Lancos"
   company: "Promiseo"
   title: "Developer"
