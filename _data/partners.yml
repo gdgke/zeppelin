@@ -9,6 +9,8 @@
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
     - {name: "GDG Kosice", description: "GDG Kosice - Open and volunteer geek community", link: "http://kosice.gdg.sk", imageUrl: "gdg-kosice.svg", width: "120px"}
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+    - {name: "Hotel Yasmin", description: "Hotel Yasmin Košice", link: "http://www.hotel-yasmin.sk/en/", imageUrl: "yasmin.png", width: "120px"}
+
 - 
   group: "Information partners"
   elements: 
