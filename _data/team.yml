@@ -49,25 +49,7 @@
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+EdmundDakoš/"}
-- 
-  id: 10
-  name: "Martina"
-  surname: "Semesiova"
-  title: "GDG Kosice"
-  thumbnailUrl: MataSemesi.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/114996106696349930969/"}
-- 
-  id: 12
-  name: "Alex"
-  surname: "Hudak"
-  title: "GDG Kosice"
-  thumbnailUrl: AlexHudak.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/111067331011845464133/"}
-- 
+-
   id: 13
   name: "Jana"
   surname: "Kunova"
