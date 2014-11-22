@@ -6,7 +6,7 @@
     - {title: "Yasmin III  - Capacity: 50", color: "#03a9f4"}
   timeslots:
     - {
-    	 startTime: "09:30",
+    	 startTime: "10:00",
     	 endTime: "10:30",
     	 sessionIds: [111]
     }
