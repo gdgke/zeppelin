@@ -39,9 +39,10 @@
   id: 6
   name: "Jana"
   surname: "Moudra"
-  company: "GDG Prague"
+  company: "Co-Owner, CEO, Juicymo"
   title: "Developer"
-  thumbnailUrl: JanaMoudra.jpg
+  thumbnailUrl: Janka.jpg
+  bio: "Jana is a co-founder of Juicymo and happy event organizer in GDG Prague/GDG ČVUT. She loves modern web technologies like Dart and HTML5. In Juicymo she does Frontend and Android development and she also designs UIs for web and mobile. Besides some speeches she organized together with Jakub Škvára two Dart + Polymer codelabs and hackathon and planning to do more because she loves helping other developers and spreading of these technologies."
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}

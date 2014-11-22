@@ -17,6 +17,7 @@
 -
   id: 002
   title: "Dart, Darrt, Darrrt"
+  description: "Dart je objektově orientovaný jazyk, se kterým je možné psát webové aplikace jak pro klienta, tak pro server. Přijďte se dozvědět více informací o tom, jak si jednoduše v Dartu můžete napsat svoji příští webovou aplikaci!"
   subtype: presentation
   speakers: [6]
   language: cz
