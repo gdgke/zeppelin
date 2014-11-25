@@ -3,6 +3,8 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "GDG Kosice", description: "GDG Kosice - Open and volunteer geek community", link: "http://kosice.gdg.sk", imageUrl: "gdg-kosice.svg"}
+    - {name: "Plug-UP", description: "Plug-UP - Plug-up International aims to make hardware security more fun, affordable and easy to use.", link: "http://www.plug-up.com/", imageUrl: "plug.png"}
+
 - 
   group: "With support of"
   elements: 
