@@ -113,11 +113,23 @@
   id: 12
   name: "Miroslav"
   surname: "Kosik"
-  company: "Excalibur"
-  title: "Android Developer"
+  company: "Excalibur, GDG Kosice"
+  title: "Developer"
   thumbnailUrl: MiroslavKosik.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MiroslavKošík/"}
+- 
+  id: 13
+  name: "Jana"
+  surname: "Kunova"
+  company: "GDG Kosice"
+  title: "Developer"
+  thumbnailUrl: JankaKunova.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JanaKunová2211/"}

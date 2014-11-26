@@ -38,9 +38,9 @@
   complexity: "Expert"
 -
   id: 005
-  title: "School knows save thousands €/year (Gapps)"
+  title: "Intro to Material Design and Android L"
   subtype: keynote
-  speakers: [10]
+  speakers: [13]
   language: sk
   complexity: "Expert"
 -
@@ -80,7 +80,7 @@
   complexity: "Expert"
 -
   id: 011
-  title: "Android wear Development"
+  title: "Intro to Android Studio"
   subtype: keynote
   speakers: [12]
   language: sk
