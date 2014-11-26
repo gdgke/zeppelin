@@ -23,15 +23,6 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+TomasLörinc94"}
 - 
-  id: 4
-  name: "David"
-  surname: "Kovac"
-  title: "GDG Kosice"
-  thumbnailUrl: DavidKovac.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DávidKováč/"}
-- 
   id: 6
   name: "Ivan"
   surname: "Ondrej"
