@@ -38,9 +38,9 @@
   complexity: "Expert"
 -
   id: 005
-  title: "Intro to Material Design and Android L"
+  title: "Intro to Android Studio (Inteli J) projects and migration from Eclipse"
   subtype: keynote
-  speakers: [13]
+  speakers: [12]
   language: sk
   complexity: "Beginner / Intermediate"
 -
@@ -80,9 +80,9 @@
   complexity: "Intermediate"
 -
   id: 011
-  title: "Intro to Android Studio"
+  title: "Intro to Material Design and Android L"
   subtype: keynote
-  speakers: [12]
+  speakers: [13]                                     
   language: sk
   complexity: "Beginner / Intermediate"
 -
