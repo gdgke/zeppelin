@@ -42,7 +42,7 @@
   subtype: keynote
   speakers: [13]
   language: sk
-  complexity: "Expert"
+  complexity: "Beginner / Intermediate"
 -
   id: 006
   title: "Glass & Wear"
@@ -77,14 +77,14 @@
   subtype: keynote
   speakers: [11]
   language: sk
-  complexity: "Expert"
+  complexity: "Intermediate"
 -
   id: 011
   title: "Intro to Android Studio"
   subtype: keynote
   speakers: [12]
   language: sk
-  complexity: "Expert"
+  complexity: "Beginner / Intermediate"
 -
   id: 012
   title: "The Star Trek computer doesn't seem that interesting"
