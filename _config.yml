@@ -42,9 +42,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 
 bottomNavigationLinks:
- - {link: "https://gdgke.ticketleap.com/devfest/dates/Nov-29-2014_at_0900AM", text: "Register here"}
+ - {link: "https://gdgke.ticketleap.com/devfest/dates/Nov-29-2014_at_1000AM", text: "Register here"}
 rightNavigationButtons:
- - {link: "https://gdgke.ticketleap.com/devfest/dates/Nov-29-2014_at_0900AM", text: "Register here"}
+ - {link: "https://gdgke.ticketleap.com/devfest/dates/Nov-29-2014_at_1000AM", text: "Register here"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -53,7 +53,7 @@ eventDate: "November 29, 2014"
 typeoutTextValues: '"", " Season", " Slovakia", " Kosice", ""'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://gdgke.ticketleap.com/devfest/dates/Nov-29-2014_at_0900AM", text: "Register here"}
+ - {link: "https://gdgke.ticketleap.com/devfest/dates/Nov-29-2014_at_1000AM", text: "Register here"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
