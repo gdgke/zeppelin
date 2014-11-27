@@ -18,8 +18,6 @@
   group: "Information partners"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Kosice", description: "GDG Kosice - Open and volunteer geek community", link: "http://kosice.gdg.sk", imageUrl: "gdg-kosice.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
     - {name: "GDG Krakow", description: "Devfest Krakow", link: "http://devfest.pl", imageUrl: "gdgkrk.png"}
     - {name: "Robime.it", description: "Robime.it", link: "http://robime.it/", imageUrl: "robime_it.jpg", width: "120px"}
     - {name: "AndroidPortal.sk", description: "AndroidPortal.sk", link: "http://androidportal.sk/", imageUrl: "androidportal.png", width: "120px"}
